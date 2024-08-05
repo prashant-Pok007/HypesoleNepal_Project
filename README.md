@@ -1,1 +1,2 @@
-# HypesoleNepal_Project
+# HypesoleNepal_Project: All the tables and storeproduces that were created for the hypersole Nepal project which is new ecommerce businesses in which customers can choose a product or service of their choice from  vendor without moving away from their workplace or home. They can also track their delivery status and know when the goods are being sent to them. They can also choose the convenient
+their delivery status and know when the goods are being sent to them. They can also choose a convenient method of payment. The aim of the project is to implement an E-commerce website for hypersole nepal that provides these features to merchandisers and customers.
